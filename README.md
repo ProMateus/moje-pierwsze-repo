@@ -16,5 +16,5 @@ To jest moje pierwsze repozytorium utworzone na GitHub.
 
 **To jest pogrubiony tekst**
 
-*To jest kursywa*moje-pierwsze-repo
+*To jest kursywa*
 Moje pierwsze repozytorium na GitHub.
