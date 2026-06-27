@@ -1,4 +1,7 @@
+
 Tekst z gałęzi main
+Tekst z gałęzi feature/conflict-demo
+
 
 To jest moje pierwsze repozytorium utworzone na GitHub.
 
