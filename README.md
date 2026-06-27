@@ -19,3 +19,4 @@ To jest moje pierwsze repozytorium utworzone na GitHub.
 *To jest kursywa*
 Moje pierwsze repozytorium na GitHub.
 Zmiana wykonana bezpośrednio w GitHub.
+Opis projektu po rebase.
