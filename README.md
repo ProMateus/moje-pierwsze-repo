@@ -1,4 +1,4 @@
-## Moje pierwsze repozytorium
+Tekst z gałęzi feature/conflict-demo
 
 To jest moje pierwsze repozytorium utworzone na GitHub.
 
